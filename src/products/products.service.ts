@@ -89,7 +89,7 @@ export class ProductsService {
       slug: "mizuno-volleyball-shoes",
       price: 55,
       category: "Men",
-      imageUrl: "/images/mizuno-volleyball-shoes.webp",
+      imageUrl: "/images/mizuno-volleyball-shoes.jpg",
     },
     {
       _id: 12,
